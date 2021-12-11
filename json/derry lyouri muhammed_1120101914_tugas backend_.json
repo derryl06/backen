@@ -1,0 +1,258 @@
+{
+    "topbar":{
+        "contact":[
+            {
+                "judul": "Hubungi Kami",
+                "url": "https://dev.rsnubanyuwangi.co.id/contact-us"
+            },
+            {
+                "class": "bi bi-instagram",
+                "tulis": "rsnu.banyuwangi",
+                "url" : "https://www.instagram.com/rsnu.banyuwangi/"
+            },
+            {
+                "class" : "bi bi-phone",
+                "tulis" : "0333632965",
+                "url" : "tel:0333632965"
+            }
+        ],
+        "social": [
+            {
+                "class" :"bi bi-facebook",
+                "url" : "https://dev.rsnubanyuwangi.co.id/#facebook"
+            },
+            {
+                "class" :"bi bi-instagram",
+                "url" :"https://www.instagram.com/rsnu.banyuwangi/"
+            }
+        ]
+    },
+    "header":{
+        "judul" :{
+            "judul": "RSNU BANYUWANGI",
+            "url" : "https://dev.rsnubanyuwangi.co.id"
+        },
+        "navbar": [
+            {
+                "judul" : "Beranda",
+                "url" : "https://dev.rsnubanyuwangi.co.id/contact-us"
+            },
+            {
+                "judul" : "cari dokter",
+                "url" :"https://dev.rsnubanyuwangi.co.id/contact-us"
+            },
+            {
+                "judul" : "Tentang RSNU",
+                "url" :"https://dev.rsnubanyuwangi.co.id/contact-us"
+            },
+            {
+                "judul" : "layanan unggulan",
+                "dropdown" : [
+                    {
+                        "judul" : "klinik bayi dan anak",
+                        "url" :"https://dev.rsnubanyuwangi.co.id"
+                    },
+                    {
+                        "judul" : "klinik TB dots",
+                        "url" : "https://dev.rsnubanyuwangi.co.id"
+                    },
+                    {
+                        "judul" :"klinik bedah",
+                        "url" : "https://dev.rsnubanyuwangi.co.id"
+                    }
+
+                ] 
+                
+            },
+            {
+                "judul" : "fasilitas dan layanan",
+                "dropdown" : [
+                    {
+                        "judul" : "Radiologi",
+                        "url" :"https://dev.rsnubanyuwangi.co.id"
+                    },
+                    {
+                        "judul" : "ambulance",
+                        "url" : "https://dev.rsnubanyuwangi.co.id"
+                    },
+                    {
+                        "judul" :"IGD",
+                        "url" : "https://dev.rsnubanyuwangi.co.id"
+                    },
+                    {
+                        "judul" : "Farmasi",
+                        "url" : "https://dev.rsnubanyuwangi.co.id"
+                    }
+
+                ] 
+            },
+            {
+                "judul" : "information center",
+                "dropdown" : [
+                    {
+                        "judul" : "dierktori rumah",
+                        "url" :"https://dev.rsnubanyuwangi.co.id"
+                    },
+                    {
+                        "judul" : "perusahaan asuransi",
+                        "url" : "https://dev.rsnubanyuwangi.co.id"
+                    },
+                    {
+                        "judul" :"tata tertib",
+                        "url" : "https://dev.rsnubanyuwangi.co.id"
+                    },
+                    {
+                        "judul" : "jajaran direksi",
+                        "url" : "https://dev.rsnubanyuwangi.co.id"
+                    }
+
+                ] 
+            }
+        ]
+
+        },
+        "slider":[
+            {
+                "imgurl" : "https://media.rsnubanyuwangi.co.id/slider/kusen.jpg",
+                "desc" : "RSNU Banyuwangi"
+            },
+            {
+                "imgurl" : "https://media.rsnubanyuwangi.co.id/slider/kusen.jpg",
+                "desc" :"RSNU Banyuwangi"
+            },
+            {
+                "imgurl" :"https://media.rsnubanyuwangi.co.id/slider/kusen.jpg",
+                "desc" :"RSNU Banyuwangi"
+            }
+        ],
+        "section1" : {
+            "judul" : "layanan unggulan",
+            "desc" : "telusuri lebih dalam pelayanan unggulan yang dapat kami lakukan untuk anda",
+            "pilihan" :[
+                {
+                    "judul" : "klinik bayi dan anak",
+                    "descpil" : "layanan untuk kesehatan bayi dan anak, tumbuh kembang bayi, balita, dan pra-remaja komprehensif",
+                    "imgurl" : "https://media.rsnubanyuwangi.co.id/klinik/5e97bbce39a70_20200416085838-1.jpg"
+                },
+                {
+                    "judul" : "klinik TB dots",
+                    "descpil" : "RSNU Banyuwangi membuka pelayanan baru yaitu Tuberculosis Directly Observed Treatment Short-course (TB DOTS)  dan Multi Drug Resistant Tuberculosis (MDR TB)",
+                    "imgurl" :"https://media.rsnubanyuwangi.co.id/klinik/5e97bbce39a70_20200416085838-1.jpg"
+                },
+                {
+                    "judul" : "klinik bedah",
+                    "descpil" :"layanan untuk kesehatan bayi dan anak, tumbuh kembang bayi, balita, dan pra-remaja komprehensif",
+                    "imgurl" : "https://media.rsnubanyuwangi.co.id/slider/kusen.jpg"
+                }
+
+            ]
+        },
+        "section2" : {
+            "judul" : "fasilitas dan layanan",
+            "desc" :"Memberikan pelayanan terdepan dengan dukungan tenaga medis berkualitas, teknologi medis terkini, serta sistem informasi digital yang terintegrasi. Kenali lebih dalam di sini.",
+            "pilihan" : [
+                {
+                    "judul" : "Radiologi",
+                    "descpil" : "Kegiatan pelayanan radiologi di RSNU bertujuan untuk membantu klinisi dalam menilai adanya kelainan/lesi patologis yang mencakup seluruh bidang kedokteran, terutama bedah, penyakit dalam"
+                },
+                {
+                    "judul" : "ambulance",
+                    "descpil" : "Pelayanan ambulan merupakan pelayanan transportasi pasien rujukan dengan kondisi tertentu antar fasilitas kesehatan yang disertai dengan upaya atau kegiatan untuk menjaga kestabilan kondisi pasien "
+                },
+                {
+                    "judul" : "IGD",
+                    "descpil" : "Siap memberikan penanganan dan pertolongan pertama pada pasien gawat darurat dengan cepat, tepat, dan terpadu"
+                },
+                {
+                    "judul" : "Farmasi",
+                    "descpil" : "Menerapkan integrasi sistem informasi digital dan e-prescription demi pelayanan yang cepat dan akurat"
+                }
+
+            ] 
+        },
+        "section3" : {
+            "judul" : "penawaran terbaik",
+            "gambar" : [
+                {
+                    "image" : "https://gambar.com/anjay.jpg",
+                    "jumbar" : "promo special couple fertility screening",
+                    "url" : "https://www.instagram.com/rsnu.banyuwangi/"
+                },
+                {
+                    "image" :"https://gambar.com/anjay.jpg",
+                    "jumbar" :"RSNU Drive thru swab antigen",
+                    "url" : "https://dev.rsnubanyuwangi.co.id"
+                }
+            ]
+
+        },
+        "section4" : {
+            "judul" : "Kisah Inspiratif dari Para Pasien Kami",
+            "content-card" : [
+                {
+                    "nama" : "stefanus",
+                    "image" : "https://gambar.com/anjay.jpg",
+                    "desc" : " saya satpol"
+                },
+                {
+                    "nama" : "vivi",
+                    "image" : "https://gambar.com/anjay.jpg",
+                    "desc" : "saya terpercaya"
+                }
+            ]
+        },
+        "section5" : {
+            "judul" : "Berita dan Artikel Kesehatan",
+            "content-card" : [
+                {
+                    "image" : "https://gambar.com/anjay.jpg",
+                    "judul" : "nyeri panggul tak kunjung usai ?",
+                    "desc" :" saya satpol",
+                    "url" : "https://dev.rsnubanyuwangi.co.id/#facebook"
+                },
+                {
+                    "image" : "https://gambar.com/anjay.jpg",
+                    "judul" : "kenali jenis penyakit reumatik dan penyebabnya",
+                    "desc" :" saya satpol",
+                    "url" : "https://dev.rsnubanyuwangi.co.id/#facebook"
+                },
+                {
+                    "image" : "https://gambar.com/anjay.jpg",
+                    "judul" : "gangguan tidur dan penyelesaian nya",
+                    "desc" :" saya satpol",
+                    "url" : "https://dev.rsnubanyuwangi.co.id/#facebook"
+                }
+            ]
+        },
+        "widget" : [
+            {
+                "judul" : "call ambulance",
+                "deskripsi" : "jika anda butuh ambulance",
+                "telp" : "082828283203"
+            },
+            {
+                "judul" : "cari dokter",
+                "url" : "https://dev.rsnubanyuwangi.co.id"
+            }
+        ],
+        "footer" : [
+            {
+                "judul" : "Beranda",
+                "url" : "https://dev.rsnubanyuwangi.co.id"
+            },
+            {
+                "judul" : "tentang rsnu",
+                "url" : "https://dev.rsnubanyuwangi.co.id"
+            },
+            {
+                "judul" : "perusahaan mitra",
+                "url" : "https://dev.rsnubanyuwangi.co.id"
+            },
+            {
+                "judul" : "hubungi kami",
+                "url" : "https://dev.rsnubanyuwangi.co.id"
+            }
+        ]
+
+
+}
