@@ -1,0 +1,574 @@
+{
+    "header": [
+        {
+            "left":{
+                "img": "tribunnews.com",
+                "url": "https://cdn-1.tstatic.net/img/logo/tribun/svg/tribunnews.svg"
+            },
+            "right":{
+                "date":{
+                    "text": "Jumat, 21 Januari 2022"
+                },
+                "nav": [
+                    {
+                        "icon" : "fa fa-search",
+                        "img" : "null",
+                        "text" : "Cari",
+                        "attr" : [
+                            {
+                                "searchbar" : {
+                                    "placeholder" : "Cari Berita"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "icon" : "null",
+                        "img" : "https://cdn-1.tstatic.net/img/logo/tribun/svg/Logo_T_blue.svg",
+                        "text" : "Network",
+                        "attr" : [
+                            {
+                                "text": "Tribunnews.com",
+                                "url": "https://www.tribunnews.com/"
+                            },
+                            {
+                                "text": "TribunnewsWiki.com",
+                                "url": "https://www.tribunnewswiki.com/"
+                            },
+                            {
+                                "text": "tribunStyle.com",
+                                "url": "https://style.tribunnews.com/?_ga=2.211165533.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunTravel.com",
+                                "url": "https://travel.tribunnews.com/?_ga=2.115739982.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunWow.com",
+                                "url": "https://wow.tribunnews.com/?_ga=2.110423501.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunNewsmaker.com",
+                                "url": "https://newsmaker.tribunnews.com/?_ga=2.107235914.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribun-Video.com",
+                                "url": "https://video.tribunnews.com/?_ga=2.210919773.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunJualBeli.com",
+                                "url": "https://www.tribunjualbeli.com/"
+                            },
+                            {
+                                "text": "tribunHealth.com",
+                                "url": "https://health.tribunnews.com/?_ga=2.2453112.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunjakarta.com",
+                                "url": "https://jakarta.tribunnews.com/?_ga=2.110904013.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "WarkaKotaLive.com",
+                                "url": "https://wartakota.tribunnews.com/?_ga=2.14887550.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunTangerang.com",
+                                "url": "https://tangerang.tribunnews.com/?_ga=2.114516687.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunnewsDepok.com",
+                                "url": "https://depok.tribunnews.com/?_ga=2.114516687.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunBekasi.com",
+                                "url": "https://bekasi.tribunnews.com/?_ga=2.9308797.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunnewsBogor.com",
+                                "url": "https://bogor.tribunnews.com/?_ga=2.9308797.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunSolo.com",
+                                "url": "https://solo.tribunnews.com/?_ga=2.119270721.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunJatim.com",
+                                "url": "https://jatim.tribunnews.com/?_ga=2.119270721.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunMataraman.com",
+                                "url": "https://mataraman.tribunnews.com/?_ga=2.51186017.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunMadura.com",
+                                "url": "https://madura.tribunnews.com/?_ga=2.51186017.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunJogja.com",
+                                "url": "https://jogja.tribunnews.com/?_ga=2.103163208.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunJabar.id",
+                                "url": "https://jabar.tribunnews.com/?_ga=2.103163208.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunCirebon.com",
+                                "url": "https://cirebon.tribunnews.com/?_ga=2.116081102.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "Surya.co.id",
+                                "url": "https://surabaya.tribunnews.com/?_ga=2.116081102.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunJateng.com",
+                                "url": "https://jateng.tribunnews.com/?_ga=2.214772191.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunBanyumas.com",
+                                "url": "https://banyumas.tribunnews.com/?_ga=2.214772191.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribun-Bali.com",
+                                "url": "https://bali.tribunnews.com/?_ga=2.18023921.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "BanjarmasinPost.co.id",
+                                "url": "https://banjarmasin.tribunnews.com/?_ga=2.18023921.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "Sripoku.com",
+                                "url": "https://palembang.tribunnews.com/?_ga=2.42624749.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "BangkaPos.com",
+                                "url": "https://bangka.tribunnews.com/?_ga=2.42796525.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunBatam.id",
+                                "url": "https://batam.tribunnews.com/?_ga=2.18048497.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunJambi.com",
+                                "url": "https://jambi.tribunnews.com/?_ga=2.115106511.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "SerambiNews.com",
+                                "url": "https://aceh.tribunnews.com/?_ga=2.115106511.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunKaltim.com",
+                                "url": "https://kaltim.tribunnews.com/?_ga=2.211635421.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunKalteng.com",
+                                "url": "https://kalteng.tribunnews.com/?_ga=2.211635421.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunKaltara.com",
+                                "url": "https://kaltara.tribunnews.com/?_ga=2.212075996.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunLampung.com",
+                                "url": "https://lampung.tribunnews.com/?_ga=2.212075996.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunManado.com",
+                                "url": "https://manado.tribunnews.com/?_ga=2.72568283.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribun-Medan.com",
+                                "url": "https://medan.tribunnews.com/?_ga=2.72568283.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunPontianak.com",
+                                "url": "https://pontianak.tribunnews.com/?_ga=2.72568283.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunPadang.com",
+                                "url": "https://padang.tribunnews.com/?_ga=2.43255405.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunPekanbaru.com",
+                                "url": "https://pekanbaru.tribunnews.com/?_ga=2.43255405.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribun-Timur.com",
+                                "url": "https://makassar.tribunnews.com/?_ga=2.106254027.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunSumsel.com",
+                                "url": "https://sumsel.tribunnews.com/?_ga=2.106254027.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "Pos-Kupang.com",
+                                "url": "https://kupang.tribunnews.com/?_ga=2.106254027.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunFlores.com",
+                                "url": "https://flores.tribunnews.com/?_ga=2.106186187.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "PosBelitung.com",
+                                "url": "https://belitung.tribunnews.com/?_ga=2.106186187.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "SuryaMalang",
+                                "url": "https://suryamalang.tribunnews.com/?_ga=2.111545932.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "TribunPalu.com",
+                                "url": "https://palu.tribunnews.com/?_ga=2.111545932.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunMataram.com",
+                                "url": "https://mataram.tribunnews.com/?_ga=2.69364056.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunTernate.com",
+                                "url": "https://ternate.tribunnews.com/?_ga=2.69364056.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunAmbon.com",
+                                "url": "https://ambon.tribunnews.com/?_ga=2.69364056.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribun-Papua.com",
+                                "url": "https://papua.tribunnews.com/?_ga=2.14950654.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunPantura.com",
+                                "url": "https://pantura.tribunnews.com/?_ga=2.14950654.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "BabelNews.id",
+                                "url": "https://babel.tribunnews.com/?_ga=2.170083944.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunBanten.com",
+                                "url": "https://banten.tribunnews.com/?_ga=2.48622958.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunLombok.com",
+                                "url": "https://lombok.tribunnews.com/?_ga=2.48622958.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "Prohaba.co",
+                                "url": "https://prohaba.tribunnews.com/?_ga=2.6448506.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunnewsSultra.com",
+                                "url": "https://sultra.tribunnews.com/?_ga=2.6448506.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribun-Sulbar.com",
+                                "url": "https://sulbar.tribunnews.com/?_ga=2.47464815.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunPapuaBarat.com",
+                                "url": "https://papuabarat.tribunnews.com/?_ga=2.47464815.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "karir",
+                                "url": "https://www.tribunnetwork.com/career/"
+                            },
+                            {
+                                "text": "Tribun Epaper",
+                                "url": "https://www.tribunnews.com/epaper?_ga=2.39127787.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "Gramedia.com",
+                                "url": "https://www.gramedia.com/"
+                            },
+                            {
+                                "text": "Gramedia Digital",
+                                "url": "https://ebooks.gramedia.com/"
+                            }
+                        ] 
+                    },
+                    {
+                        "icon": "null",
+                        "img": "null",
+                        "text": "Ikuti Kami",
+                        "attr": [
+                            {
+                                "icon": "fa fa-rss fa-lg mr10",
+                                "text": "RSS",
+                                "url": "https://www.tribunnews.com/rss"
+                            },
+                            {
+                                "icon": "fa fa-facebook",
+                                "text": "Facebook",
+                                "url": "https://www.facebook.com/tribunnews/"
+                            },
+                            {
+                                "icon": "fa fa-instagram",
+                                "text": "Instagram",
+                                "url": "https://www.instagram.com/tribunnews/"
+                            },
+                            {
+                                "icon": "fa fa-twitter",
+                                "text": "Twitter",
+                                "url": "https://www.twitter.com/tribunnews/"
+                            },
+                            {
+                                "icon": "fa fa-google",
+                                "text": "Google News",
+                                "url": "https://news.google.com/publications/CAAqBwgKMOaOjgswxOWgAw?hl=id&gl=ID&ceid=ID%3Aid"
+                            }
+                        ]
+                    },
+                    {
+                        "icon": "null",
+                        "img": "null",
+                        "text": "Login",
+                        "attr": {
+                            "text" : "Belum punya akun?",
+                            "a": "Mendaftar",
+                            "url": "https://account.tribunnews.com/register/dHJpYnVubmV3cw==?_ga=2.106194379.916959572.1642762859-213591227.1642056737"
+                        }
+                    }  
+                ]
+            },
+            "headpost":[
+                {
+                    "id": "1",
+                    "img": "HItachi",
+                    "url": "https://s0.2mdn.net/4338353/01122022-183720197-SEEV_Banner-2-6-English-970x250.jpg"
+                },
+                {
+                    "id": "2",
+                    "img": "Transunion",
+                    "url": "https://s0.2mdn.net/simgad/15629663393808310773"
+                }
+            ]
+        }
+    ],
+    "body":[
+        {
+            "category":[
+                {
+                    "topic": [
+                        {
+                            "text": "News",
+                            "url": "https://www.tribunnews.com/news"
+                        },
+                        {
+                            "text": "Bisnis",
+                            "url": "https://www.tribunnews.com/bisnis"
+                        },
+                        {
+                            "text": "Superskor",
+                            "url": "https://www.tribunnews.com/superskor"
+                        },
+                        {
+                            "text": "Sport",
+                            "url": "https://www.tribunnews.com/sport"
+                        },
+                        {
+                            "text": "Seleb",
+                            "url": "https://www.tribunnews.com/seleb"
+                        },
+                        {
+                            "text": "Lifestyle",
+                            "url": "https://www.tribunnews.com/lifestyle"
+                        },
+                        {
+                            "text": "New Economy",
+                            "url": "https://www.tribunnews.com/new-economy"
+                        },
+                        {
+                            "text": "PARAPUAN",
+                            "url": "https://www.tribunnews.com/news"
+                        },
+                        {
+                            "text": "Otomotif",
+                            "url": "https://www.tribunnews.com/news"
+                        },
+                        {
+                            "text": "Techno",
+                            "url": "https://www.tribunnews.com/news"
+                        },
+                        {
+                            "text": "Video",
+                            "url": "https://www.tribunnews.com/news"
+                        },
+                        {
+                            "text": "Image",
+                            "url": "https://www.tribunnews.com/news"
+                        },
+                        {
+                            "text": "Lainya",
+                            "url": "https://www.tribunnews.com/#",
+                            "attr": [
+                                {
+                                    "text": "PARAPUAN",
+                                    "url": "https://www.tribunnews.com/news"
+                                },
+                                {
+                                    "text": "Otomotif",
+                                    "url": "https://www.tribunnews.com/news"
+                                },
+                                {
+                                    "text": "Techno",
+                                    "url": "https://www.tribunnews.com/news"
+                                },
+                                {
+                                    "text": "Video",
+                                    "url": "https://www.tribunnews.com/news"
+                                },
+                                {
+                                    "text": "Image",
+                                    "url": "https://www.tribunnews.com/news"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "banner": {
+                "img": "tribunStore",
+                "url": "https://cdn-1.tstatic.net/img/epaper/tribunnewsintroducing.jpg",
+                "button": [
+                    {
+                        "imgurl": "https://cdn-1.tstatic.net/img/epaper/appstore.png",
+                        "url": "https://itunes.apple.com/id/app/tribun-store/id829633063?mt=8"
+                    },
+                    {
+                        "imgurl": "https://cdn-1.tstatic.net/img/epaper/googleplay.png",
+                        "url": "https://play.google.com/store/apps/details?id=com.appsfoundry.scoopwl.id.tribun"
+                    }
+                ]
+            }
+        },
+        {
+            "network": {
+                "title": "Tribun Netwok",
+                "url": "https://www.tribunnews.com/",
+                "text": "The National's Local Newspaper",
+                "item": [
+                    {
+                        "image": "https://cdn-1.tstatic.net/img/epaper/surya.jpg",
+                        "text": "Surya",
+                        "url": "https://surabaya.tribunnews.com/epaper/?_ga=2.207954394.916959572.1642762859-213591227.1642056737"
+                    },
+                    {
+                        "image": "https://cdn-1.tstatic.net/img/epaper/jabar.jpg",
+                        "text": "Tribun Jabar",
+                        "url": "https://jabar.tribunnews.com/epaper/?_ga=2.115690190.916959572.1642762859-213591227.1642056737"
+                    },
+                    {
+                        "image": "https://cdn-1.tstatic.net/img/epaper/jogja.jpg",
+                        "text": "Tribun Jogja",
+                        "url": "https://jogja.tribunnews.com/epaper/?_ga=2.69495128.916959572.1642762859-213591227.1642056737"
+                    },
+                    {
+                        "image": "https://cdn-1.tstatic.net/img/epaper/jateng.jpg",
+                        "text": "Tribun Jateng",
+                        "url": "https://jateng.tribunnews.com/epaper/?_ga=2.210396381.916959572.1642762859-213591227.1642056737"
+                    },
+                    {
+                        "image": "https://cdn-1.tstatic.net/img/epaper/serambi.jpg",
+                        "text": "Serambi Indonesia",
+                        "url": "https://aceh.tribunnews.com/epaper/?_ga=2.17630577.916959572.1642762859-213591227.1642056737"
+                    },
+                    {
+                        "image": "https://cdn-1.tstatic.net/img/epaper/sripo.jpg",
+                        "text": "Sriwijaya Post",
+                        "url": "https://palembang.tribunnews.com/epaper/?_ga=2.43271789.916959572.1642762859-213591227.1642056737"
+                    },
+                    {
+                        "image": "https://cdn-1.tstatic.net/img/epaper/sumsel.jpg",
+                        "text": "Tribun Sumsel",
+                        "url": "https://sumsel.tribunnews.com/epaper/?_ga=2.14372223.916959572.1642762859-213591227.1642056737"
+                    },
+                    {
+                        "image": "https://cdn-1.tstatic.net/img/epaper/bangka.jpg",
+                        "text": "Bangka Pos",
+                        "url": "https://bangka.tribunnews.com/epaperbangkapos"
+                    },
+                    {
+                        "image": "https://cdn-1.tstatic.net/img/epaper/belitung.jpg",
+                        "text": "Pos Belitung",
+                        "url": "https://belitung.tribunnews.com/epaper/?_ga=2.208398554.916959572.1642762859-213591227.1642056737"
+                    },
+                    {
+                        "image": "https://cdn-1.tstatic.net/img/epaper/batam.jpg",
+                        "text": "Tribun Batam",
+                        "url": "https://batam.tribunnews.com/epaper/?_ga=2.39521003.916959572.1642762859-213591227.1642056737"
+                    },
+                    {
+                        "image": "https://cdn-1.tstatic.net/img/epaper/jambi.jpg",
+                        "text": "Tribun Jambi",
+                        "url": "https://jambi.tribunnews.com/epaper?_ga=2.103098952.916959572.1642762859-213591227.1642056737"
+                    },
+                    {
+                        "image": "https://cdn-1.tstatic.net/img/epaper/lampung.jpg",
+                        "text": "Tribun Lampung",
+                        "url": "https://lampung.tribunnews.com/epaper/?_ga=2.103098952.916959572.1642762859-213591227.1642056737"
+                    },
+                    {
+                        "image": "https://cdn-1.tstatic.net/img/epaper/medan.jpg",
+                        "text": "Tribun Medan",
+                        "url": "https://medan.tribunnews.com/epaper/?_ga=2.220079441.916959572.1642762859-213591227.1642056737"
+                    },
+                    {
+                        "image": "https://cdn-1.tstatic.net/img/epaper/pekanbaru.jpg",
+                        "text": "Tribun Pekanbaru",
+                        "url": "https://pekanbaru.tribunnews.com/epaper/?_ga=2.72674907.916959572.1642762859-213591227.1642056737"
+                    },
+                    {
+                        "image": "https://cdn-1.tstatic.net/img/epaper/timur.jpg",
+                        "text": "Tribun Timur",
+                        "url": "https://makassar.tribunnews.com/epaper/?_ga=2.42870125.916959572.1642762859-213591227.1642056737"
+                    },
+                    {
+                        "image": "https://cdn-1.tstatic.net/img/epaper/manado.jpg",
+                        "text": "Tribun Manado",
+                        "url": "https://manado.tribunnews.com/epaper/?_ga=2.42870125.916959572.1642762859-213591227.1642056737"
+                    }
+                ]
+            }
+        }
+    ],
+    "footer": {
+        "watermark" : {
+            "text" : "© 2022 TRIBUNnews.com Network,a subsidiary of KG Media. All Right Reserved"
+        },
+        "navigation" : [
+            {
+                "text" : "About",
+                "url" : "https://www.tribunnews.com/about/?_ga=2.115032655.916959572.1642762859-213591227.1642056737"
+            },
+            {
+                "text" : "Help",
+                "url" : "https://www.tribunnews.com/help/?_ga=2.38947179.916959572.1642762859-213591227.1642056737"
+            },
+            {
+                "text" : "Privacy Policy",
+                "url" : "https://www.tribunnews.com/privacy-policy/?_ga=2.51776225.916959572.1642762859-213591227.1642056737"
+            },
+            {
+                "text" : "Pedoman Media Siber",
+                "url" : "https://www.tribunnews.com/pedoman/?_ga=2.51776225.916959572.1642762859-213591227.1642056737"
+            },
+            {
+                "text" : "Style Of Use",
+                "url" : "https://style.tribunnews.com/terms/"
+            },
+            {
+                "text" : "Contact Us",
+                "url" : "https://style.tribunnews.com/contact-us/"
+            },
+            {
+                "text" : "Redaksi",
+                "url" : "https://style.tribunnews.com/redaksi/"
+            },
+            {
+                "text" : "Info Iklan",
+                "url" : "https://style.tribunnews.com/info-iklan/"
+            }
+        ]
+    }
+}

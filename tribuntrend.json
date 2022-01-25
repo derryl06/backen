@@ -1,0 +1,754 @@
+{
+    "header": [
+        {
+            "left":{
+                "img": "tribunnews.com",
+                "url": "https://cdn-1.tstatic.net/img/logo/tribun/svg/tribunnews.svg"
+            },
+            "right":{
+                "date":{
+                    "text": "Jumat, 21 Januari 2022"
+                },
+                "nav": [
+                    {
+                        "icon" : "fa fa-search",
+                        "img" : "null",
+                        "text" : "Cari",
+                        "attr" : [
+                            {
+                                "searchbar" : {
+                                    "placeholder" : "Cari Berita"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "icon" : "null",
+                        "img" : "https://cdn-1.tstatic.net/img/logo/tribun/svg/Logo_T_blue.svg",
+                        "text" : "Network",
+                        "attr" : [
+                            {
+                                "text": "Tribunnews.com",
+                                "url": "https://www.tribunnews.com/"
+                            },
+                            {
+                                "text": "TribunnewsWiki.com",
+                                "url": "https://www.tribunnewswiki.com/"
+                            },
+                            {
+                                "text": "tribunStyle.com",
+                                "url": "https://style.tribunnews.com/?_ga=2.211165533.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunTravel.com",
+                                "url": "https://travel.tribunnews.com/?_ga=2.115739982.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunWow.com",
+                                "url": "https://wow.tribunnews.com/?_ga=2.110423501.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunNewsmaker.com",
+                                "url": "https://newsmaker.tribunnews.com/?_ga=2.107235914.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribun-Video.com",
+                                "url": "https://video.tribunnews.com/?_ga=2.210919773.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunJualBeli.com",
+                                "url": "https://www.tribunjualbeli.com/"
+                            },
+                            {
+                                "text": "tribunHealth.com",
+                                "url": "https://health.tribunnews.com/?_ga=2.2453112.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunjakarta.com",
+                                "url": "https://jakarta.tribunnews.com/?_ga=2.110904013.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "WarkaKotaLive.com",
+                                "url": "https://wartakota.tribunnews.com/?_ga=2.14887550.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunTangerang.com",
+                                "url": "https://tangerang.tribunnews.com/?_ga=2.114516687.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunnewsDepok.com",
+                                "url": "https://depok.tribunnews.com/?_ga=2.114516687.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunBekasi.com",
+                                "url": "https://bekasi.tribunnews.com/?_ga=2.9308797.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunnewsBogor.com",
+                                "url": "https://bogor.tribunnews.com/?_ga=2.9308797.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunSolo.com",
+                                "url": "https://solo.tribunnews.com/?_ga=2.119270721.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunJatim.com",
+                                "url": "https://jatim.tribunnews.com/?_ga=2.119270721.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunMataraman.com",
+                                "url": "https://mataraman.tribunnews.com/?_ga=2.51186017.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunMadura.com",
+                                "url": "https://madura.tribunnews.com/?_ga=2.51186017.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunJogja.com",
+                                "url": "https://jogja.tribunnews.com/?_ga=2.103163208.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunJabar.id",
+                                "url": "https://jabar.tribunnews.com/?_ga=2.103163208.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunCirebon.com",
+                                "url": "https://cirebon.tribunnews.com/?_ga=2.116081102.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "Surya.co.id",
+                                "url": "https://surabaya.tribunnews.com/?_ga=2.116081102.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunJateng.com",
+                                "url": "https://jateng.tribunnews.com/?_ga=2.214772191.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunBanyumas.com",
+                                "url": "https://banyumas.tribunnews.com/?_ga=2.214772191.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribun-Bali.com",
+                                "url": "https://bali.tribunnews.com/?_ga=2.18023921.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "BanjarmasinPost.co.id",
+                                "url": "https://banjarmasin.tribunnews.com/?_ga=2.18023921.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "Sripoku.com",
+                                "url": "https://palembang.tribunnews.com/?_ga=2.42624749.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "BangkaPos.com",
+                                "url": "https://bangka.tribunnews.com/?_ga=2.42796525.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunBatam.id",
+                                "url": "https://batam.tribunnews.com/?_ga=2.18048497.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunJambi.com",
+                                "url": "https://jambi.tribunnews.com/?_ga=2.115106511.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "SerambiNews.com",
+                                "url": "https://aceh.tribunnews.com/?_ga=2.115106511.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunKaltim.com",
+                                "url": "https://kaltim.tribunnews.com/?_ga=2.211635421.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunKalteng.com",
+                                "url": "https://kalteng.tribunnews.com/?_ga=2.211635421.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunKaltara.com",
+                                "url": "https://kaltara.tribunnews.com/?_ga=2.212075996.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunLampung.com",
+                                "url": "https://lampung.tribunnews.com/?_ga=2.212075996.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunManado.com",
+                                "url": "https://manado.tribunnews.com/?_ga=2.72568283.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribun-Medan.com",
+                                "url": "https://medan.tribunnews.com/?_ga=2.72568283.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunPontianak.com",
+                                "url": "https://pontianak.tribunnews.com/?_ga=2.72568283.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunPadang.com",
+                                "url": "https://padang.tribunnews.com/?_ga=2.43255405.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunPekanbaru.com",
+                                "url": "https://pekanbaru.tribunnews.com/?_ga=2.43255405.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribun-Timur.com",
+                                "url": "https://makassar.tribunnews.com/?_ga=2.106254027.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunSumsel.com",
+                                "url": "https://sumsel.tribunnews.com/?_ga=2.106254027.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "Pos-Kupang.com",
+                                "url": "https://kupang.tribunnews.com/?_ga=2.106254027.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunFlores.com",
+                                "url": "https://flores.tribunnews.com/?_ga=2.106186187.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "PosBelitung.com",
+                                "url": "https://belitung.tribunnews.com/?_ga=2.106186187.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "SuryaMalang",
+                                "url": "https://suryamalang.tribunnews.com/?_ga=2.111545932.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "TribunPalu.com",
+                                "url": "https://palu.tribunnews.com/?_ga=2.111545932.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunMataram.com",
+                                "url": "https://mataram.tribunnews.com/?_ga=2.69364056.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunTernate.com",
+                                "url": "https://ternate.tribunnews.com/?_ga=2.69364056.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunAmbon.com",
+                                "url": "https://ambon.tribunnews.com/?_ga=2.69364056.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribun-Papua.com",
+                                "url": "https://papua.tribunnews.com/?_ga=2.14950654.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunPantura.com",
+                                "url": "https://pantura.tribunnews.com/?_ga=2.14950654.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "BabelNews.id",
+                                "url": "https://babel.tribunnews.com/?_ga=2.170083944.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunBanten.com",
+                                "url": "https://banten.tribunnews.com/?_ga=2.48622958.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunLombok.com",
+                                "url": "https://lombok.tribunnews.com/?_ga=2.48622958.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "Prohaba.co",
+                                "url": "https://prohaba.tribunnews.com/?_ga=2.6448506.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunnewsSultra.com",
+                                "url": "https://sultra.tribunnews.com/?_ga=2.6448506.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribun-Sulbar.com",
+                                "url": "https://sulbar.tribunnews.com/?_ga=2.47464815.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "tribunPapuaBarat.com",
+                                "url": "https://papuabarat.tribunnews.com/?_ga=2.47464815.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "karir",
+                                "url": "https://www.tribunnetwork.com/career/"
+                            },
+                            {
+                                "text": "Tribun Epaper",
+                                "url": "https://www.tribunnews.com/epaper?_ga=2.39127787.916959572.1642762859-213591227.1642056737"
+                            },
+                            {
+                                "text": "Gramedia.com",
+                                "url": "https://www.gramedia.com/"
+                            },
+                            {
+                                "text": "Gramedia Digital",
+                                "url": "https://ebooks.gramedia.com/"
+                            }
+                        ] 
+                    },
+                    {
+                        "icon": "null",
+                        "img": "null",
+                        "text": "Ikuti Kami",
+                        "attr": [
+                            {
+                                "icon": "fa fa-rss fa-lg mr10",
+                                "text": "RSS",
+                                "url": "https://www.tribunnews.com/rss"
+                            },
+                            {
+                                "icon": "fa fa-facebook",
+                                "text": "Facebook",
+                                "url": "https://www.facebook.com/tribunnews/"
+                            },
+                            {
+                                "icon": "fa fa-instagram",
+                                "text": "Instagram",
+                                "url": "https://www.instagram.com/tribunnews/"
+                            },
+                            {
+                                "icon": "fa fa-twitter",
+                                "text": "Twitter",
+                                "url": "https://www.twitter.com/tribunnews/"
+                            },
+                            {
+                                "icon": "fa fa-google",
+                                "text": "Google News",
+                                "url": "https://news.google.com/publications/CAAqBwgKMOaOjgswxOWgAw?hl=id&gl=ID&ceid=ID%3Aid"
+                            }
+                        ]
+                    },
+                    {
+                        "icon": "null",
+                        "img": "null",
+                        "text": "Login",
+                        "attr": {
+                            "text" : "Belum punya akun?",
+                            "a": "Mendaftar",
+                            "url": "https://account.tribunnews.com/register/dHJpYnVubmV3cw==?_ga=2.106194379.916959572.1642762859-213591227.1642056737"
+                        }
+                    }  
+                ]
+            },
+            "headpost":[
+                {
+                    "id": "1",
+                    "img": "HItachi",
+                    "url": "https://s0.2mdn.net/4338353/01122022-183720197-SEEV_Banner-2-6-English-970x250.jpg"
+                },
+                {
+                    "id": "2",
+                    "img": "Transunion",
+                    "url": "https://s0.2mdn.net/simgad/15629663393808310773"
+                }
+            ]
+        }
+    ],
+    "body":[
+        {
+            "category":[
+                {
+                    "topic": [
+                        {
+                            "text": "Home",
+                            "url": "https://www.tribunnews.com/news"
+                        },
+                        {
+                            "text": "Infotainment",
+                            "url": "https://www.tribunnews.com/bisnis"
+                        },
+                        {
+                            "text": "Viral",
+                            "url": "https://www.tribunnews.com/superskor"
+                        },
+                        {
+                            "text": "Lifestyle",
+                            "url": "https://www.tribunnews.com/sport"
+                        },
+                        {
+                            "text": "Movie",
+                            "url": "https://www.tribunnews.com/seleb"
+                        },
+                        {
+                            "text": "Music",
+                            "url": "https://www.tribunnews.com/lifestyle"
+                        },
+                        {
+                            "text": "News",
+                            "url": "https://www.tribunnews.com/new-economy"
+                        },
+                        {
+                            "text": "Lainya",
+                            "url": "https://www.tribunnews.com/#",
+                            "attr": [
+                                {
+                                    "text": "PARAPUAN",
+                                    "url": "https://www.tribunnews.com/news"
+                                },
+                                {
+                                    "text": "Otomotif",
+                                    "url": "https://www.tribunnews.com/news"
+                                },
+                                {
+                                    "text": "Techno",
+                                    "url": "https://www.tribunnews.com/news"
+                                },
+                                {
+                                    "text": "Video",
+                                    "url": "https://www.tribunnews.com/news"
+                                },
+                                {
+                                    "text": "Image",
+                                    "url": "https://www.tribunnews.com/news"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": [
+                        {
+                            "text": "TAGs:",
+                            "url": null
+                        },
+                        {
+                            "text": "The King Of Tears Lee Bang Won",
+                            "url": "https://trends.tribunnews.com/tag/the-king-of-tears-lee-bang-won"
+                        },
+                        {
+                            "text": " Omicron",
+                            "url": "https://trends.tribunnews.com/tag/omicron"
+                        },
+                        {
+                            "text": "FTISLAND",
+                            "url": "https://trends.tribunnews.com/tag/ftisland"
+                        },
+                        {
+                            "text": " Oh Won Bin",
+                            "url": "https://trends.tribunnews.com/tag/oh-won-bin"
+                        },
+                        {
+                            "text": " Brunei",
+                            "url": "https://trends.tribunnews.com/tag/brunei"
+                        },
+                        {
+                            "text": " Putri Fadzilah",
+                            "url": "https://trends.tribunnews.com/tag/putri-fadzilah"
+                        },
+                        {
+                            "text": " Lee Bang Won",
+                            "url": "https://trends.tribunnews.com/tag/lee-bang-won"
+                        },
+                        {
+                            "text": " The King of Tears",
+                            "url": "https://trends.tribunnews.com/tag/the-king-of-tears"
+                        },
+                        {
+                            "text": " Eunsang",
+                            "url": "https://trends.tribunnews.com/tag/eunsang"
+                        },
+                        {
+                            "text": " Kura Kura",
+                            "url": "https://trends.tribunnews.com/tag/omicron"
+                        },
+                        {
+                            "text": "Lee Hongki",
+                            "url": "https://trends.tribunnews.com/tag/lee-hongki"
+                        }
+                    ]
+                }
+            ]
+        },  
+        {
+            "contents":[
+                {
+                    "left": {
+                        "ads" : [
+                            {
+                                "id": "1",
+                                "img": "Hitachi",
+                                "url": "https://s0.2mdn.net/4338353/01122022-183720197-SEEV_Banner-2-6-English-970x250.jpg"
+                            },
+                            {
+                                "id": "2",
+                                "img": "Transunion",
+                                "url": "https://s0.2mdn.net/simgad/15629663393808310773"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "middle": {
+                        "contentsslider": {
+                            "slider":{
+                                "currentid": "1",
+                                "item":[
+                                    {
+                                        "id": "1",
+                                        "img": "angelina joli",
+                                        "imgurl": "https://cdn-2.tstatic.net/trends/foto/bank/images2/angelina-jolie-dan-putri-angkatnya-zahara-2.jpg",
+                                        "h1": "BANJIR Pujian Cara Angelina Jolie Perlakukan Putri Angkatnya Terekam Kamera, Bak Anak Sendiri",
+                                        "url": "https://trends.tribunnews.com/2022/01/22/banjir-pujian-cara-angelina-jolie-perlakukan-putri-angkatnya-terekam-kamera-bak-anak-sendiri"
+                                    },
+                                    {
+                                        "id": "2",
+                                        "img": "barbie hsu",
+                                        "imgurl": "https://cdn-2.tstatic.net/trends/foto/bank/images2/kabar-barbie-hsu-setelah-2-bulan-bercerai-dari-wang-xiaofei-dua-anaknya-ikut-siapa.jpg",
+                                        "h1": "KABAR Barbie Hsu 2 Bulan Setelah Cerai dari Suami Kaya, Begini Nasib Anak-anaknya, Ikut Siapa?",
+                                        "url": "https://trends.tribunnews.com/2022/01/22/kabar-barbie-hsu-2-bulan-setelah-cerai-dari-suami-kaya-begini-nasib-anak-anaknya-ikut-siapa"
+                                    },
+                                    {
+                                        "id": "3",
+                                        "img": "melahirkan di boat",
+                                        "imgurl": "https://cdn-2.tstatic.net/trends/foto/bank/images2/viral-wanita-melahirkan-bayi-kembar-di-atas-kapal-saat-menuju-ke-rumah-sakit-1.jpg",
+                                        "h1": "VIRAL Detik-detik Ibu Hamil Melahirkan Bayi Kembar di Perahu Boat saat Mau ke Rumah Sakit",
+                                        "url": "https://trends.tribunnews.com/2022/01/22/viral-detik-detik-ibu-hamil-melahirkan-bayi-kembar-di-perahu-boat-saat-mau-ke-rumah-sakit"
+                                    },
+                                    {
+                                        "id": "4",
+                                        "img": "pernikahan",
+                                        "imgurl": "https://cdn-2.tstatic.net/trends/foto/bank/images2/potret-pernikahan-park-shin-hye-dan-choi-tae-joon.jpg",
+                                        "h1": "Potret-potret Pernikahan Park Shin Hye & Choi Tae Joon, Sang Aktris Tampak Simpel Tapi Tetap Elegan",
+                                        "url": "https://trends.tribunnews.com/2022/01/22/potret-potret-pernikahan-park-shin-hye-choi-tae-joon-sang-aktris-tampak-simpel-tapi-tetap-elegan"
+                                    },
+                                    {
+                                        "id": "5",
+                                        "img": "jatuh cinta",
+                                        "imgurl": "https://cdn-2.tstatic.net/trends/foto/bank/images2/ayu-abdullah-tak-percaya-ada-lelaki-yang-mampu-menerima-dirinya-apa-adanya-1.jpg",
+                                        "h1": "Wanita 'Plus Size' Tak Percaya Ada Pria Jatuh Cinta Padanya, Tiba-tiba Bertanya 'Mau Jadi Istriku?'",
+                                        "url": "https://trends.tribunnews.com/2022/01/22/wanita-plus-size-tak-percaya-ada-pria-jatuh-cinta-padanya-tiba-tiba-bertanya-mau-jadi-istrikuS"
+                                    }
+                                ]
+                            },
+                            "availableid": [
+                                {
+                                    "id": "1",
+                                    "img": "angelina joli",
+                                    "imgurl": "https://cdn-2.tstatic.net/trends/foto/bank/images2/angelina-jolie-dan-putri-angkatnya-zahara-2.jpg",
+                                    "h1": "BANJIR Pujian Cara Angelina Jolie Perlakukan Putri Angkatnya Terekam Kamera, Bak Anak Sendiri",
+                                    "url": "https://trends.tribunnews.com/2022/01/22/banjir-pujian-cara-angelina-jolie-perlakukan-putri-angkatnya-terekam-kamera-bak-anak-sendiri"
+                                },
+                                {
+                                    "id": "2",
+                                    "img": "barbie hsu",
+                                    "imgurl": "https://cdn-2.tstatic.net/trends/foto/bank/images2/kabar-barbie-hsu-setelah-2-bulan-bercerai-dari-wang-xiaofei-dua-anaknya-ikut-siapa.jpg",
+                                    "h1": "KABAR Barbie Hsu 2 Bulan Setelah Cerai dari Suami Kaya, Begini Nasib Anak-anaknya, Ikut Siapa?",
+                                    "url": "https://trends.tribunnews.com/2022/01/22/kabar-barbie-hsu-2-bulan-setelah-cerai-dari-suami-kaya-begini-nasib-anak-anaknya-ikut-siapa"
+                                },
+                                {
+                                    "id": "3",
+                                    "img": "melahirkan di boat",
+                                    "imgurl": "https://cdn-2.tstatic.net/trends/foto/bank/images2/viral-wanita-melahirkan-bayi-kembar-di-atas-kapal-saat-menuju-ke-rumah-sakit-1.jpg",
+                                    "h1": "VIRAL Detik-detik Ibu Hamil Melahirkan Bayi Kembar di Perahu Boat saat Mau ke Rumah Sakit",
+                                    "url": "https://trends.tribunnews.com/2022/01/22/viral-detik-detik-ibu-hamil-melahirkan-bayi-kembar-di-perahu-boat-saat-mau-ke-rumah-sakit"
+                                },
+                                {
+                                    "id": "4",
+                                    "img": "pernikahan",
+                                    "imgurl": "https://cdn-2.tstatic.net/trends/foto/bank/images2/potret-pernikahan-park-shin-hye-dan-choi-tae-joon.jpg",
+                                    "h1": "Potret-potret Pernikahan Park Shin Hye & Choi Tae Joon, Sang Aktris Tampak Simpel Tapi Tetap Elegan",
+                                    "url": "https://trends.tribunnews.com/2022/01/22/potret-potret-pernikahan-park-shin-hye-choi-tae-joon-sang-aktris-tampak-simpel-tapi-tetap-elegan"
+                                },
+                                {
+                                    "id": "5",
+                                    "img": "jatuh cinta",
+                                    "imgurl": "https://cdn-2.tstatic.net/trends/foto/bank/images2/ayu-abdullah-tak-percaya-ada-lelaki-yang-mampu-menerima-dirinya-apa-adanya-1.jpg",
+                                    "h1": "Wanita 'Plus Size' Tak Percaya Ada Pria Jatuh Cinta Padanya, Tiba-tiba Bertanya 'Mau Jadi Istriku?'",
+                                    "url": "https://trends.tribunnews.com/2022/01/22/wanita-plus-size-tak-percaya-ada-pria-jatuh-cinta-padanya-tiba-tiba-bertanya-mau-jadi-istrikuS"
+                                }
+                            ]
+                        },
+                        "news": [
+                            {
+                                "title": "CHORD Tonight - Jin BTS, Kunci Gitar dan Lirik Lagu, Mudah Dipelajari Pemula",
+                                "url": "https://trends.tribunnews.com/2022/01/23/chord-tonight-jin-bts-kunci-gitar-dan-lirik-lagu-mudah-dipelajari-pemula",
+                                "p": "Berikut ini chord, kunci gitar dan lirik lagu Tonight milik Jin BTS, mudah dipelajari pemula.",
+                                "theme": "music",
+                                "themeurl": "https://trends.tribunnews.com/music",
+                                "img": "jin btsPeringkat reputasi brand untuk penyanyi pada Januari 2022 telah dirilis, posisi puncak ditempati Lim Young Woong",
+                                "imgurl": "https://cdn-2.tstatic.net/trends/foto/bank/thumbnails2/jin-bts-01.jpg"
+                            },
+                            {
+                                "title": "Ranking Reputasi Brand Penyanyi Korea Januari Dirilis, Lim Young Woong di Puncak, BLACKPINK",
+                                "url": "https://trends.tribunnews.com/2022/01/22/ranking-reputasi-brand-penyanyi-korea-januari-dirilis-lim-young-woong-di-puncak-blackpink-kedua",
+                                "p": "Peringkat reputasi brand untuk penyanyi pada Januari 2022 telah dirilis, posisi puncak ditempati Lim Young Woong",
+                                "theme": "music",
+                                "themeurl": "https://trends.tribunnews.com/music",
+                                "img": "blackpink",
+                                "imgurl": "https://cdn-2.tstatic.net/trends/foto/bank/thumbnails2/peringkat-reputasi-brand-untuk-penyanyi-korea-bulan-januari-2022-blackpink.jpg"
+                            },
+                            {
+                                "title": "Agensi Ungkap Song Ji A Terpuruk setelah Baca Cibiran dari Haters, Hyowon CNC: Ini Kesalahan",
+                                "url": "https://trends.tribunnews.com/2022/01/23/agensi-ungkap-song-ji-a-terpuruk-setelah-baca-cibiran-dari-haters-hyowon-cnc-ini-kesalahan-saya",
+                                "p": "Agensi Hyowon CNC mengungkap kondisi Song Ji A setelah membaca cibiran dari haters.",
+                                "theme": "infotainment",
+                                "themeurl": "https://www.tribunnews.com/infotainment",
+                                "img": "hyowon",
+                                "imgurl": "https://cdn-2.tstatic.net/trends/foto/bank/thumbnails2/song-ji-a-k.jpg"
+                            },
+                            {
+                                "title": "RM BTS Jawab Bijak saat Disinggung soal Haters, Kim Namjoon: 'Hanya Perlu Lanjutkan Hidup'",
+                                "url": "https://trends.tribunnews.com/2022/01/23/rm-bts-jawab-bijak-saat-disinggung-soal-haters-kim-namjoon-hanya-perlu-lanjutkan-hidup",
+                                "p": "Kim Namjoon alias RM BTS jawab bijak saat disinggung mengenai haters. Sang leader ungkap hanya perlu melanjutkan hidup.",
+                                "theme": "infotainment",
+                                "themeurl": "https://www.tribunnews.com/infotainment",
+                                "img": "RM",
+                                "imgurl": "https://cdn-2.tstatic.net/trends/foto/bank/thumbnails2/kim-namjoon-alias-rm-bts-a.jpg"
+                            },
+                            {
+                                "title": "7 Foto Romantis di Momen Pernikahan Park Shin Hye & Choi Tae Joon: Bagaikan Drakor yang Jadi Nyata?",
+                                "url": "https://trends.tribunnews.com/2022/01/23/7-foto-romantis-di-momen-pernikahan-park-shin-hye-choi-tae-joon-bagaikan-drakor-yang-jadi-nyata",
+                                "p": "Deretan potret momen romantis di pernikahan Park Shin Hye & Choi Tae Joon. Intip pasangan aktris dan aktor yang seakan wujudkan drakor di dunia",
+                                "theme": "infotainment",
+                                "themeurl": "https://www.tribunnews.com/infotainment",
+                                "img": "romantis",
+                                "imgurl": "https://cdn-2.tstatic.net/trends/foto/bank/thumbnails2/park-shin-hye-dan-choi-tae-joon-resmi-menikah.jpg"
+                            }
+                        ],
+                        "button": [
+                            {
+                                "text" : "Tampilkan Lainnya",
+                                "url": "javascript:"
+                            },
+                            {
+                                "text": "indeks",
+                                "url": "https://www.tribunnews.com/indeks"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "right": {
+                        "Beritapop":{
+                            "tittle" : "berita POPULER",
+                            "item" : [
+                                
+                                {
+                                    "title": "CHORD Tonight - Jin BTS, Kunci Gitar dan Lirik Lagu, Mudah Dipelajari Pemula",
+                                    "url": "https://trends.tribunnews.com/2022/01/23/chord-tonight-jin-bts-kunci-gitar-dan-lirik-lagu-mudah-dipelajari-pemula",
+                                    "p": "Berikut ini chord, kunci gitar dan lirik lagu Tonight milik Jin BTS, mudah dipelajari pemula.",
+                                    "theme": "music",
+                                    "themeurl": "https://trends.tribunnews.com/music",
+                                    "img": "jin btsPeringkat reputasi brand untuk penyanyi pada Januari 2022 telah dirilis, posisi puncak ditempati Lim Young Woong",
+                                    "imgurl": "https://cdn-2.tstatic.net/trends/foto/bank/thumbnails2/jin-bts-01.jpg"
+                                },
+                                {
+                                    "title": "7 Foto Romantis di Momen Pernikahan Park Shin Hye & Choi Tae Joon: Bagaikan Drakor yang Jadi Nyata?",
+                                    "url": "https://trends.tribunnews.com/2022/01/23/7-foto-romantis-di-momen-pernikahan-park-shin-hye-choi-tae-joon-bagaikan-drakor-yang-jadi-nyata",
+                                    "p": "Deretan potret momen romantis di pernikahan Park Shin Hye & Choi Tae Joon. Intip pasangan aktris dan aktor yang seakan wujudkan drakor di dunia",
+                                    "theme": "infotainment",
+                                    "themeurl": "https://www.tribunnews.com/infotainment",
+                                    "img": "romantis",
+                                    "imgurl": "https://cdn-2.tstatic.net/trends/foto/bank/thumbnails2/park-shin-hye-dan-choi-tae-joon-resmi-menikah.jpg"
+                                },
+                                {
+                                    "title": "Agensi Ungkap Song Ji A Terpuruk setelah Baca Cibiran dari Haters, Hyowon CNC: Ini Kesalahan",
+                                    "url": "https://trends.tribunnews.com/2022/01/23/agensi-ungkap-song-ji-a-terpuruk-setelah-baca-cibiran-dari-haters-hyowon-cnc-ini-kesalahan-saya",
+                                    "p": "Agensi Hyowon CNC mengungkap kondisi Song Ji A setelah membaca cibiran dari haters.",
+                                    "theme": "infotainment",
+                                    "themeurl": "https://www.tribunnews.com/infotainment",
+                                    "img": "hyowon",
+                                    "imgurl": "https://cdn-2.tstatic.net/trends/foto/bank/thumbnails2/song-ji-a-k.jpg"
+                                },
+                                {
+                                    "title": "RM BTS Jawab Bijak saat Disinggung soal Haters, Kim Namjoon: 'Hanya Perlu Lanjutkan Hidup'",
+                                    "url": "https://trends.tribunnews.com/2022/01/23/rm-bts-jawab-bijak-saat-disinggung-soal-haters-kim-namjoon-hanya-perlu-lanjutkan-hidup",
+                                    "p": "Kim Namjoon alias RM BTS jawab bijak saat disinggung mengenai haters. Sang leader ungkap hanya perlu melanjutkan hidup.",
+                                    "theme": "infotainment",
+                                    "themeurl": "https://www.tribunnews.com/infotainment",
+                                    "img": "RM",
+                                    "imgurl": "https://cdn-2.tstatic.net/trends/foto/bank/thumbnails2/kim-namjoon-alias-rm-bts-a.jpg"
+                                }
+                               
+
+                            ]
+                        },
+                        "Topikpop":{
+                            "title": "topik POPULER",
+                            "item": [
+                                {
+                                    "text" : "Dont Forget",
+                                    "url": "https://trends.tribunnews.com/tag/dont-forget"
+                                },
+                                {
+                                    "text" : "donghyuk",
+                                    "url": "https://trends.tribunnews.com/tag/donghyuk"
+                                },
+                                {
+                                    "text" : "yunhyeong",
+                                    "url": "https://trends.tribunnews.com/tag/yunhyeong"
+                                },
+                                {
+                                    "text" : "The King Of Tears Lee Bang Won",
+                                    "url": "https://trends.tribunnews.com/tag/the-king-of-tears-lee-bang-won"
+                                },
+                                {
+                                    "text" : "omicron",
+                                    "url": "https://trends.tribunnews.com/tag/omicron"
+                                },
+                                {
+                                    "text" : "ftisland",
+                                    "url": "https://trends.tribunnews.com/tag/ftisland"
+                                },
+                                {
+                                    "text" : "oh won bin",
+                                    "url": "https://trends.tribunnews.com/tag/oh-won-bin"
+                                },
+                                {
+                                    "text" : "brunei",
+                                    "url": "https://trends.tribunnews.com/tag/brunei"
+                                },
+                                {
+                                    "text" : "putri fadzilah",
+                                    "url": "https://trends.tribunnews.com/tag/putri-fadzilah"
+                                },
+                                {
+                                    "text" : "kura-kura",
+                                    "url": "https://trends.tribunnews.com/tag/kura-kura"
+                                }
+                            ]
+                        },
+                        "footer":{
+                            "watermark" : {
+                                "text" : "© 2022 TRIBUNnews.com Network,a subsidiary of KG Media. All Right Reserved"
+                            },
+                            "navigation" : [
+                                {
+                                    "text" : "About",
+                                    "url" : "https://www.tribunnews.com/about/?_ga=2.115032655.916959572.1642762859-213591227.1642056737"
+                                },
+                                {
+                                    "text" : "Help",
+                                    "url" : "https://www.tribunnews.com/help/?_ga=2.38947179.916959572.1642762859-213591227.1642056737"
+                                },
+                                {
+                                    "text" : "Privacy Policy",
+                                    "url" : "https://www.tribunnews.com/privacy-policy/?_ga=2.51776225.916959572.1642762859-213591227.1642056737"
+                                },
+                                {
+                                    "text" : "Pedoman Media Siber",
+                                    "url" : "https://www.tribunnews.com/pedoman/?_ga=2.51776225.916959572.1642762859-213591227.1642056737"
+                                },
+                                {
+                                    "text" : "Style Of Use",
+                                    "url" : "https://style.tribunnews.com/terms/"
+                                },
+                                {
+                                    "text" : "Contact Us",
+                                    "url" : "https://style.tribunnews.com/contact-us/"
+                                },
+                                {
+                                    "text" : "Redaksi",
+                                    "url" : "https://style.tribunnews.com/redaksi/"
+                                },
+                                {
+                                    "text" : "Info Iklan",
+                                    "url" : "https://style.tribunnews.com/info-iklan/"
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
